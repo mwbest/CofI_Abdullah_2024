@@ -1,0 +1,236 @@
+---
+# created by SKYCAT-TOOL -- KMS-plugin V1.62
+# : created
+# orig filename  : kosmos.23.seg3g2 : /home/workers/.kms/SET/kosmos.23.seg3g2.kms
+# : orig
+# user-date      : workers 2023-08-11T20:06:40
+# : user-date
+# fits file      : 
+# : fits
+# fits instrument: 
+# : fits
+# fits origin    : CASB -- STScI
+# : fits
+# fits object    : dss24533
+# : fits
+# catalog name   : DSS 2 RED (1") at ESO
+# : catalog
+# INS.MASK.NA    : M023seg3g2
+# : INS.MASK.NA
+# INS.MASK.ID    : 200640
+# : INS.MASK.ID
+# INS.MASK.NAID  : M023seg3g2+200640
+# : INS.MASK.NAID
+# target setup for KOSMOS
+# : target
+# --------------------------------------------
+# : --------------------------------------------
+TEL.TARG.ALPHA : 212132.106
+TEL.TARG.DELTA : +190859.200
+TEL.ROT.OFFANGLE : 0.000
+TEL.TARG.EQUINOX : 2000.0
+INS.SLIT.NUMBER : 16
+INS.RSLIT.NUMBER : 0
+targets :
+- ID : TARG101
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 0.9
+  LEN : 10.0
+  ROT : 0.0
+  ALPHA : 212133.821
+  DELTA : +190534.280
+  WIDMM : 0.154
+  LENMM : 1.707
+  XMM : -4.150
+  YMM : 34.972
+- ID : TARG102
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 0.9
+  LEN : 10.0
+  ROT : 0.0
+  ALPHA : 212134.103
+  DELTA : +190555.710
+  WIDMM : 0.154
+  LENMM : 1.707
+  XMM : -4.831
+  YMM : 31.313
+- ID : TARG103
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 0.9
+  LEN : 10.0
+  ROT : 0.0
+  ALPHA : 212139.639
+  DELTA : +190612.300
+  WIDMM : 0.154
+  LENMM : 1.707
+  XMM : -18.223
+  YMM : 28.472
+- ID : TARG104
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 0.9
+  LEN : 10.0
+  ROT : 0.0
+  ALPHA : 212136.755
+  DELTA : +190631.540
+  WIDMM : 0.154
+  LENMM : 1.707
+  XMM : -11.247
+  YMM : 25.194
+- ID : TARG105
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 0.9
+  LEN : 10.0
+  ROT : 0.0
+  ALPHA : 212130.054
+  DELTA : +190659.250
+  WIDMM : 0.154
+  LENMM : 1.707
+  XMM : 4.962
+  YMM : 20.475
+- ID : TARG106
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 0.9
+  LEN : 10.0
+  ROT : 0.0
+  ALPHA : 212133.934
+  DELTA : +190720.870
+  WIDMM : 0.154
+  LENMM : 1.707
+  XMM : -4.422
+  YMM : 16.780
+- ID : TARG107
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 0.9
+  LEN : 10.0
+  ROT : 0.0
+  ALPHA : 212133.847
+  DELTA : +190811.860
+  WIDMM : 0.154
+  LENMM : 1.707
+  XMM : -4.212
+  YMM : 8.077
+- ID : TARG108
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 0.9
+  LEN : 10.0
+  ROT : 0.0
+  ALPHA : 212127.508
+  DELTA : +190828.880
+  WIDMM : 0.154
+  LENMM : 1.707
+  XMM : 11.119
+  YMM : 5.182
+- ID : TARG109
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 0.9
+  LEN : 10.0
+  ROT : 0.0
+  ALPHA : 212128.763
+  DELTA : +190845.780
+  WIDMM : 0.154
+  LENMM : 1.707
+  XMM : 8.085
+  YMM : 2.297
+- ID : TARG110
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 0.9
+  LEN : 10.0
+  ROT : 0.0
+  ALPHA : 212127.784
+  DELTA : +190908.670
+  WIDMM : 0.154
+  LENMM : 1.707
+  XMM : 10.451
+  YMM : -1.610
+- ID : TARG111
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 0.9
+  LEN : 10.0
+  ROT : 0.0
+  ALPHA : 212132.879
+  DELTA : +191002.480
+  WIDMM : 0.154
+  LENMM : 1.707
+  XMM : -1.870
+  YMM : -10.801
+- ID : TARG112
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 4.0
+  LEN : 4.0
+  ROT : 0.0
+  ALPHA : 212140.986
+  DELTA : +191141.810
+  WIDMM : 0.683
+  LENMM : 0.683
+  XMM : -21.469
+  YMM : -27.768
+- ID : TARG113
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 4.0
+  LEN : 4.0
+  ROT : 0.0
+  ALPHA : 212134.279
+  DELTA : +191220.250
+  WIDMM : 0.683
+  LENMM : 0.683
+  XMM : -5.252
+  YMM : -34.315
+- ID : TARG114
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 4.0
+  LEN : 4.0
+  ROT : 0.0
+  ALPHA : 212123.429
+  DELTA : +191104.210
+  WIDMM : 0.683
+  LENMM : 0.683
+  XMM : 20.979
+  YMM : -21.323
+- ID : TARG115
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 4.0
+  LEN : 4.0
+  ROT : 0.0
+  ALPHA : 212132.347
+  DELTA : +190735.580
+  WIDMM : 0.683
+  LENMM : 0.683
+  XMM : -0.582
+  YMM : 14.272
+- ID : TARG116
+  NAME : NN
+  SHAPE : STRAIGHT
+  WID : 4.0
+  LEN : 4.0
+  ROT : 0.0
+  ALPHA : 212136.121
+  DELTA : +190544.590
+  WIDMM : 0.683
+  LENMM : 0.683
+  XMM : -9.713
+  YMM : 33.208
+INS.RSTAR.NUMBER : 0
+SEQ.PREP.MASK_NA : M023seg3g2
+SEQ.PREP.MASK_ID : 200640
+SEQ.PREP.LMIN : 381.000
+SEQ.PREP.LCEN : 480.000
+SEQ.PREP.LMAX : 541.000
+SEQ.PREP.GRAT : VPH
+SEQ.PREP.FILT : g
+SEQ.PREP.CAM : CAMERA
+SEQ.PREP.GOOD : 2
